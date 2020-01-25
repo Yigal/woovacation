@@ -19,31 +19,25 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      Tel Aviv Restaurants, one of the best things about tel aviv is it'd restaurants.
+      As a city that promote diversity it has something for anyone. either fancy restaurants,
+      fast food or street food you came to the right place
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      High-Tech, there is no way to think about Tel Aviv without it's high tech zone
+      over time these places have become the beeting heart of tel aviv, and a good
+      start to see what it is all about.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Markets & Shopping: much like everything else here in tel aviv the markets are a unique
+        combination of east and west, we have it all.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Culture and Night live, tel aviv offers something for anyone,
+        There are culture places, theaters, night clubs, pubs. and the best thing about it,
+        Tel Aviv actually never sleep you can hang around safely everywhere at anytime
+
+
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
