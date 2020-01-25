@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Make Your Best Vacation In Tel Aviv
-image: /img/home-jumbotron.jpg
+image: /img/tel-aviv-area.jpg
 heading: Make Your Best Vacation In Tel Aviv
 subheading: Experience Tel Aviv from the locals
 mainpitch:
@@ -25,7 +25,7 @@ intro:
     - image: /img/coffee-gear.png
       text: >
       High-Tech, there is no way to think about Tel Aviv without it's high tech zone
-      over time these places have become the beeting heart of tel aviv, and a good
+      over time these places have become the beating heart of tel aviv, and a good
       start to see what it is all about.
     - image: /img/tutorials.png
       text: >
