@@ -1,16 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Make Your Best Vacation In Tel Aviv
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Make Your Best Vacation In Tel Aviv
+subheading: Experience Tel Aviv from the locals
 mainpitch:
-  title: Why Kaldi
+  title: Why I made this site
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Tel Aviv is one of the happies cities in the world. I just love Tel Aviv, it is my home.
+    I made a site with my personal recommendations for a great vacation here in Tel Aviv and included
+    the best recommendations for you. if you like this site, please use it and share it with your
+    friends, I keep this site free, and unbiased. in order to keep it free please use the provided links to
+    book your recommendations. but the best way to show your thanks is by spreading this site.
+    Hope you like it, feel free to contact me with any questions or help you might need when you are here.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
