@@ -10,7 +10,7 @@ mainpitch:
        Tel Aviv is one of the happies cities in the world. I just love Tel Aviv, it is my home.
        I made a site with my personal recommendations for a great vacation here in Tel Aviv and included
        the best recommendations for you.
-  description: >-
+description: >-
       if you like this site, please use it and share it with your
       friends, I keep this site free, and unbiased. in order to keep it free please use the provided links to
       book your recommendations. but the best way to show your thanks is by spreading this site.
